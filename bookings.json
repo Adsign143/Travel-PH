@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Juan Dela Cruz",
+    "email": "juan@example.com",
+    "destination": "Coron, Palawan",
+    "travelDate": "2026-12-15",
+    "guests": 2,
+    "message": "I would like to book a Coron island tour."
+  },
+  {
+    "name": "Maria Santos",
+    "email": "maria@example.com",
+    "destination": "Boracay",
+    "travelDate": "2027-01-10",
+    "guests": 4,
+    "message": "Family vacation booking."
+  },
+  {
+    "name": "Pedro Garcia",
+    "email": "pedro@example.com",
+    "destination": "Bohol",
+    "travelDate": "2027-02-20",
+    "guests": 3,
+    "message": "Interested in a Bohol countryside tour."
+  }
+]
